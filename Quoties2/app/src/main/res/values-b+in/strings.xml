@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quoties</string>
+    <string name="qod">Kutipan Hari Ini: \n</string>
+    <string name="request_permission">Minta Izin Runtime</string>
+    <string name="call_native_lib">Memanggil Library Native</string>
+    <string name="connect_to_wifi">Terhubung dengan WiFi</string>
+    <string name="connect_to_mobile">Terhubung dengan Mobile Data</string>
+    <string name="not_connected">Tidak Terhubung dengan Internet</string>
+</resources>

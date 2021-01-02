@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quoties</string>
+    <string name="qod">Quote Of The Day: \n</string>
+    <string name="request_permission">Request Permission</string>
+    <string name="call_native_lib">Call Native Lib</string>
+    <string name="connect_to_wifi">Connected to WiFi</string>
+    <string name="connect_to_mobile">Connected to Mobile Data</string>
+    <string name="not_connected">Not Connected to Internet</string>
+</resources>
